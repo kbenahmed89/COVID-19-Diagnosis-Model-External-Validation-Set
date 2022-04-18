@@ -1,6 +1,6 @@
 # COVID-19-Diagnosis-Model-External-Validation-Set
 
-This <a href=""> [dataset]</a>  is a benchmark for external validation of automatic COVID-19 diangosis models. It includes 1163 images of COVID-19 positive cases and 1349 images of COVID-19 negative cases. Images are converted to 8bits and lungs are segmented and cropped.
+This <a href="https://drive.google.com/file/d/1elZK-JVWuJuvMs95Ott2leAP5DJtVlZE/view?usp=sharing"> [dataset]</a>  is a benchmark for external validation of automatic COVID-19 diangosis models. It includes 1163 images of COVID-19 positive cases and 1349 images of COVID-19 negative cases. Images are converted to 8bits and lungs are segmented and cropped.
 
 The pre-trained Segmentation U-net model can be downloaded from <a href="https://drive.google.com/file/d/14brQsEFOJOKCo0qg0DXhfGVSf3RACojX/view?usp=sharing">[here]</a>
 
