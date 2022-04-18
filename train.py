@@ -57,9 +57,9 @@ from keras import backend
 
 
 
-train_data_dir = '/beegfs-mnt/data/kbenahmed/COVID/SpNih/train/'
-seen = '/beegfs-mnt/data/kbenahmed/COVID/SpNih/val-test-seen-cropped/'
-unseen = '/beegfs-mnt/data/kbenahmed/COVID/SpNih/val-test-unseen-cropped/'
+train_data_dir = '/COVID/SpNih/train/'
+seen = '/COVID/SpNih/val-test-seen-cropped/'
+unseen = '/COVID/SpNih/val-test-unseen-cropped/'
 
 nb_epoch = 1000
 img_rows, img_cols, img_channel = 224,224, 3
